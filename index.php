@@ -150,7 +150,7 @@
 
   <footer class="footer">
     <h2>
-      Copyright © EQUIPO H - All Rights Reserved | 2023 Agencia Turística 'Traveling Nayarit'.
+      Copyright © EQUIPO INTERFACES - Todos los derechos reservados | Agencia Turística 'Traveling Nayarit'.
     </h2>
   </footer>
 

@@ -26,9 +26,9 @@
       <ul>
         
 
-        <li><a href="destinos.php">DESTINOS</a></li>
-        <li><a href="contacto.php">CONTACTO</a></li>
-        <li><a href="acercaDe copy.php">SOBRE NOSOTROS</a></li>
+        <li><a href="destinos.php">Destinos</a></li>
+        <li><a href="contacto.php">Contacto</a></li>
+        <li><a href="acercaDe copy.php">Sobre nosotros</a></li>
         
       </ul>
     </nav>
@@ -36,7 +36,7 @@
 
     <nav class="navLogin">
       <ul>
-        <li><a href="login/login.php" class="login">CERRAR SESIÓN</a></li>
+        <li><a href="login/login.php" class="login">Cerrar Sesión</a></li>
         
         
       </ul>
@@ -48,12 +48,12 @@
     <div class="divFondoColorSection1"></div>
     <div class="divTextoSection1">
 
-      <h2>DESCUBRE TUS</h2>
-      <h1>PRÓXIMAS MEJORES EXPERIENCIAS EN NAYARIT</h1>
+      <h2>Descubre tus</h2>
+      <h1>próximas mejores experiencias en Nayarit</h1>
     </div>
 
     <div class="ConteligeAventura">
-      <a href="destinos.php" class="eligeAventura">ELIGE TU AVENTURA</a>
+      <a href="destinos.php" class="eligeAventura">Elige tu aventura</a>
     </div>
     
     
@@ -74,7 +74,7 @@
         </div>
         
         <h3>
-          RECUERDOS QUE DURAN PARA TODA LA VIDA
+          Recuerdos que duran para toda la vida
         </h3>
         <h4>
           Lo ayudaremos a crear hermosos recuerdos y capturarlos en impresionantes fotos para llevar a casa.
@@ -86,7 +86,7 @@
         </div>
         
         <h3>
-          ORIENTACION Y APOYO
+          Orientación y apoyo
         </h3>
         <h4>
           Nuestra experiencia, conocimiento y apoyo estarán a su servicio durante toda su travesía.
@@ -98,7 +98,7 @@
         </div>
         
         <h3>
-          SERVICIOS DE LUJO Y VARIEDAD DE GAMAS
+          Servicios de lujo y variedad de gamas
         </h3>
         <h4>
           Solo puede esperar experiencias de primer nivel y de alta calidad al elegir nuestros servicios.
@@ -111,7 +111,7 @@
     <div class="container1">
       <div></div>
       <div>
-        <h1>DESTINOS</h1>
+        <h1>Destinos</h1>
         <hr>
       </div>
     </div>

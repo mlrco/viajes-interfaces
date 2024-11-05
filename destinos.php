@@ -173,6 +173,7 @@
 
   <footer class="footer">
     <h2>
+            Copyright © EQUIPO INTERFACES - Todos los derechos reservados | Agencia Turística 'Traveling Nayarit'.
     </h2>
   </footer>
 
